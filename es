@@ -1,0 +1,2 @@
+git init EDA_StudentsPerformance_FM1105
+cd EDA_StudentsPerformance_FM1105
