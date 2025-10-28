@@ -64,7 +64,7 @@ Comprehensive Exploratory Data Analysis of Students Performance in Exams dataset
 ## 🚀 How to Run
 1. Clone this repository
 2. Install required packages: `pip install pandas numpy matplotlib seaborn scipy scikit-learn`
-3. Open Jupyter notebook: `jupyter notebook EDA_StudentsPerformance_23BSC001.ipynb`
+3. Open Jupyter notebook: `jupyter notebook EDA_StudentsPerformance_FM1105.ipynb`
 4. Run all cells sequentially
 
 ## 📊 Visualizations Included
